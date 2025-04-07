@@ -19,9 +19,8 @@ Foi utilizada a estratégia **teste de credenciais**, validando combinações co
 ## 🌐 Ambiente de Teste
 
 - Sistemas testados:
-  - https://seubarriga.wcaquino.me (Build #123)
-  - https://barrigareact.wcaquino.me (Build #28)
-- Navegador: Firefox 91
+- Google chrome
+- https://the-internet.herokuapp.com/login
 - Sistema Operacional: Windows 10 Pro
 
 ## 📝 Testes Realizados
